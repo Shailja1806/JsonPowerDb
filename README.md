@@ -25,3 +25,8 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 ## JsonPowerDB SAMPLE :
 ![JsonPowerDB Home Page - Google Chrome 30-05-2021 09_44_29](https://user-images.githubusercontent.com/72348174/120091829-247fa900-c12c-11eb-8e52-3df277805d72.png)
 
+## CRUD operations :
+Registration : Insert Data <br />
+Show : Read Data <br />
+Updation : Update Data <br />
+Delete : Remove Data <br />
